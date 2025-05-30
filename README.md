@@ -3,9 +3,9 @@ User defined project for HarvardX Data Science Capstone
 
 The project consists of 3x files:
 
-bllc_capstone_report.pdf
-bllc_capstone_scripts.R
-bllc_capstone_report.Rmd
+- bllc_capstone_report.pdf
+- bllc_capstone_scripts.R
+- bllc_capstone_report.Rmd
 
 "bllc_capstone_scripts.R" was created in R version 4.5.0 and RStudio/2025.05.0+496. The file will run without error but please note:
 
