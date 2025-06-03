@@ -1,0 +1,4 @@
+id,model,input,type,layers,learn_rate,epoch,loss,accuracy
+11,cnn_gray,gray-scale,custom,7,0.001,25,0.951,0.541
+12,cnn_rgb,rgb,custom,7,0.05,17,0.801,0.677
+13,resnet_18,rgb,pre-trained,18,0.001,11,0.42,0.865

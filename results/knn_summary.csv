@@ -1,0 +1,6 @@
+id,model,k,accuracy
+1,knn_gray,90,0.504
+2,knn_red,100,0.414
+3,knn_green,80,0.504
+4,knn_blue,100,0.444
+5,knn_ensemble,NA,0.526
