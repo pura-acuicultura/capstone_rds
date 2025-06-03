@@ -1,6 +1,0 @@
-id,model,per_var,k,accuracy
-6,pca_gray,48.567,30,0.519
-7,pca_red,53.181,80,0.489
-8,pca_green,49.807,20,0.481
-9,pca_blue,54.799,60,0.617
-10,pca_ensemble,NA,NA,0.586
